@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Calculator {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    margin: 25px;
+    margin-top: 50%;
+}
